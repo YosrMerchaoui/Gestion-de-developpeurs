@@ -1,10 +1,9 @@
 language: java
 jdk: oraclejdk8
 
-
-dist: trusty
-
-
-script: mvn clean verify
 install:
 - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+
+script: mvn clean verify
+
+
