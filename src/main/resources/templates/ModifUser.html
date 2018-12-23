@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Modifier Utilisateur</title>
+</head>
+<body>
+
+<form th:action="@{/postModifDev}" th:object="${user}" method="post">
+
+    <input  name="nom" th:field="*{nomUser}" id="nom" placeholder="Entrez le nouveau nom" type="hidden" />
+    <input  name="prenom" th:field="*{prenomUser}" id="prenom" placeholder="Entrez le nouveau prenom" type="hidden" />
+    <input  th:field="*{idUser}" name="id" type="hidden"/>
+    <input  name="prenom" th:field="*{emailUser}" id="email" placeholder="Entrez le nouveau email" type="hidden" />
+    <input  name="mdp" th:field="*{mdpUser}" id="mdp" placeholder="modifier le mdp" type="hidden" />
+
+    <input  name="admin" th:field="*{adminUser}" id="admin" placeholder="modifier le statut" />
+
+    <input type="submit" value="Modifier" />
+    <input type="reset" value="Annuler" /> </p>
+
+
+</form>
+
+</body>
+</html>

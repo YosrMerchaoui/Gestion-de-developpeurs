@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Sep 2018 17:33:50 at http://weibergmedia.com/demos/bt/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://weibergmedia.com/demos/bt/ -O1 "C:\My Web Sites\DevelopersManagement" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/fonts/glyphicons-halflings-regular.eot (from weibergmedia.com/demos/bt/css/bootstrap.min.css)
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/fonts/glyphicons-halflings-regular.eot? (from weibergmedia.com/demos/bt/css/bootstrap.min.css)
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/fonts/glyphicons-halflings-regular.woff2 (from weibergmedia.com/demos/bt/css/bootstrap.min.css)
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/fonts/glyphicons-halflings-regular.woff (from weibergmedia.com/demos/bt/css/bootstrap.min.css)
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/fonts/glyphicons-halflings-regular.ttf (from weibergmedia.com/demos/bt/css/bootstrap.min.css)
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/fonts/glyphicons-halflings-regular.svg (from weibergmedia.com/demos/bt/css/bootstrap.min.css)
+17:44:52	Warning: 	File not parsed, looks like binary: weibergmedia.com/demos/bt/fonts/fontawesome-webfont.woff2?v=4.7.0
+17:44:52	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/images/icons/bg-illustration@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:52	Warning: 	Retry after error -4 (No data (connection closed)) at link weibergmedia.com/demos/bt/images/icons/bg-box@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:54	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/icons/bg-cake@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/images/icons/bg-calcuLator@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/images/icons/bg-network@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/images/icons/bg-target@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/images/icons/bg-certified@2x.png (from weibergmedia.com/demos/bt/css/styles.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/css/fancybox_sprite.png (from weibergmedia.com/demos/bt/css/jquery.fancybox.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/images/ajax-loader2.gif (from weibergmedia.com/demos/bt/css/jquery.fancybox.css)
+17:44:55	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/css/blank.gif (from weibergmedia.com/demos/bt/css/jquery.fancybox.css)
+17:44:55	Warning: 	Retry after error -2 (Receive Time Out) at link weibergmedia.com/demos/bt/images/image07-lg.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:44:57	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/image02.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:44:57	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/lifestyle08-lg.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:44:57	Warning: 	Retry after error -2 (Receive Time Out) at link weibergmedia.com/demos/bt/images/image06-lg.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:45:02	Warning: 	Retry after error -4 (No data (connection closed)) at link weibergmedia.com/demos/bt/images/image06.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:45:12	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/lifestyle04.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:45:16	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/work-single-31.jpg (from weibergmedia.com/demos/bt/architect.html)
+17:45:23	Error: 	"Not Found" (404) at link weibergmedia.com/demos/bt/post.html (from weibergmedia.com/demos/bt/post-1.html)
+17:47:15	Warning: 	Retry after error -2 (Receive Time Out) at link weibergmedia.com/demos/bt/images/image02.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:47:15	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/image06.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:47:15	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/lifestyle04.jpg (from weibergmedia.com/demos/bt/photography.html)
+17:47:15	Warning: 	Retry after error -4 (Connect Error) at link weibergmedia.com/demos/bt/images/work-single-31.jpg (from weibergmedia.com/demos/bt/architect.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 2 seconds : 229 links scanned, 200 files written (13016681 bytes overall) [13103875 bytes received at 15562 bytes/sec], 2.6 requests per connection
+(15 errors, 14 warnings, 0 messages)
